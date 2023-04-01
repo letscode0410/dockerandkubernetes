@@ -12,3 +12,5 @@
 # docker stop container_name
 
 # docker start container_name
+
+# docker build -f Dockerfile_v1 .
